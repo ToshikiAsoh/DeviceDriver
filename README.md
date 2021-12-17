@@ -1,5 +1,4 @@
-# DeviceDriver
-This repository is related to the device driver.
-the led lights turn on and off when you type a "echo {1 or 0} > /dev/myled0"."
+# Lチカデバイスドライバー
+##ターミナル入力によってledのオン・オフを制御できるデバイスドライバ
 
-"led_write()" is a function to turn on and off the led lights.
+#
