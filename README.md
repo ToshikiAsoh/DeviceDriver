@@ -17,9 +17,11 @@
 # プログラム
 # 実行方法
 ledのオンオフは以下のunixコマンドを入力することで実行可能  
- オン： `$ echo 1 /dev/myled0`
+ オン： `$ echo 1 /dev/myled0`  
  オフ： `$ echo 0 /dev/myled0`
 # 動作テスト
 実際の動作は以下リンクより視聴可能
 YouTube： https://youtu.be/9Xc7GDbpYPU 
 # ライセンス
+GNU General Public License v2.0
+URL: https://github.com/ToshikiAsoh/DeviceDriver/blob/main/COPYING 
