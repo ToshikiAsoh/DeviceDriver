@@ -17,6 +17,9 @@
 # プログラム
 # 実行方法
 * ledのオンオフは以下のunixコマンドを入力することで実行可能
-`$hoge =1` $ echo 1 /dev/myled0
+** オン
+** `$ echo 1 /dev/myled0`
+** オフ
+** `$ echo 0 /dev/myled0`
 # 動作テスト
 # ライセンス
