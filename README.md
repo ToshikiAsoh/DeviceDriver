@@ -14,7 +14,6 @@
 以下のような回路図を構築
 
 ![deviseDriver gpeg](https://user-images.githubusercontent.com/92129518/146563327-e8b30e4a-24e1-41f9-9b15-63aad8ad049f.png)
-# プログラム
 # 実行方法
 ledのオンオフは以下のunixコマンドを入力することで実行可能  
  オン： `$ echo 1 /dev/myled0`  
