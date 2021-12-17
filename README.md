@@ -1,7 +1,7 @@
 # Lチカデバイスドライバー
 ターミナル入力によってledのオン・オフを制御できるデバイスドライバを作成  
 # 環境
-* ハードウェア：Raspberry Pi 4　Model B 8GB
+* マシン：Raspberry Pi 4　Model B 8GB
 * OS：ubuntu20.04.3 LTS
 * エディタ：vim
 # 使用したもの
