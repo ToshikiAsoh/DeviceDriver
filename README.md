@@ -25,6 +25,6 @@ YouTube： https://youtu.be/9Xc7GDbpYPU
 GNU General Public License v.0  
 URL: https://github.com/ToshikiAsoh/DeviceDriver/blob/main/COPYING 
 # 参考
-以下のサイトおよび人物を参考
+以下のサイトおよび人物を参考  
 参考サイト： https://cpp-learning.com/readme/   
 参考にした人のリポジトリ： https://github.com/SakaTaku2/robosys_report1 
