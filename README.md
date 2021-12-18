@@ -22,7 +22,7 @@ ledのオンオフは以下のunixコマンドを入力することで実行可�
 実際の動作は以下リンクより視聴可能  
 YouTube： https://youtu.be/9Xc7GDbpYPU 
 # ライセンス
-GNU General Public License v.0  
+GNU General Public License v3.0  
 URL: https://github.com/ToshikiAsoh/DeviceDriver/blob/main/COPYING 
 # 参考
 以下のサイトおよび人物を参考  
