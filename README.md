@@ -19,7 +19,7 @@ ledのオンオフは以下のunixコマンドを入力することで実行可�
  オン： `$ echo 1 /dev/myled0`  
  オフ： `$ echo 0 /dev/myled0`
 # 動作テスト
-実際の動作は以下リンクより視聴可能
+実際の動作は以下リンクより視聴可能  
 YouTube： https://youtu.be/9Xc7GDbpYPU 
 # ライセンス
 GNU General Public License v.0  
